@@ -1,7 +1,2 @@
 # Ignore volatile UI-related state
-Obsidian/.obsidian/workspace.json
-Obisidan/.obsidian/app.json
-Obsidian/.obsidian/themes
-Obsidian/.obsidian/appearance.json
-Obsidian/.obisidian/plugins
-Obsidian/.obsididan/snippets
+Obsidian/.obsidian/
