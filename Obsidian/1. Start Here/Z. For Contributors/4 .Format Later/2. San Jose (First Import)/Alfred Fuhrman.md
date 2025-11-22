@@ -1,0 +1,3 @@
+[[Alfred Fuhrman]], a [[German]] sailor, succeeded in organizing a [[San Jose]] branch of the [[National Union of United Brewery Workmen of the United States]].
+
+Fuhrman was a German [[immigrant]] and a [[socialist]] from the [[Lassallean]] tradition. Lassallean socialists at the time were uninspired by the trade union movement and believed that workers should focus solely on the political struggle, and not the economic. However, after the efforts of the [[San Francisco Federated Trade Council]], German immigrants changed their tune. Fuhrman began successful union drives in San Jose ([[1886]]), [[Boca]] ([[1887]]), and [[Sacramento]] ([[1888]]).

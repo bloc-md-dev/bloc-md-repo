@@ -1,1 +1,2 @@
-#Initial Push
+# Ignore volatile UI-related state
+**/.obsidian/

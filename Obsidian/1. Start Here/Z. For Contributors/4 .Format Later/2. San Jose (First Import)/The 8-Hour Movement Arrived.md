@@ -1,0 +1,17 @@
+During the late 1860s, the [[Eight-Hour movement]] surged ahead in [[San Francisco]], largely propelled by the fervent efforts of [[Alexander M. Kenaday]], who served as the head of the [[Trades’ Union]]. This movement witnessed the emergence of [[Eight-Hour League]]s across various unions, wherein members committed to toiling for a mere eight hours each day, starting on specified dates. After eight-hours of work, they would simply walk off the job. By June [[1867]], the eight-hour regimen had become commonplace in the city, despite lacking legal enforcement.
+
+A notable march unfolded on June 3, 1867, when over 2,000 laborers paraded along [[Market Street]], their procession meticulously arranged based on the dates their respective unions embraced the eight-hour workday. However, efforts by waterfront employers to dismantle this arrangement faltered, and on December 3, 1867, the [[San Francisco Board of Supervisors]] passed an [[ordinance]] mandating an eight-hour workday for city employees.
+
+By February, the city boasted no less than twenty-five 8-Hour Leagues, and on February 22, [[1868]], a grand procession marked the jubilant passage of a statewide law securing the [[8-hour workday]]. The procession’s sequence underscored the chronological adoption of the eight-hour day by different trades, underscoring the triumph of organized labor.
+
+It’s noteworthy that the crusade for the 8-hour workday intersected with broader societal and political transformations of the era. The abolition of [[slavery]] during the [[Civil War]] significantly influenced labor dynamics. With the shackles of slavery lifted, there arose an intensified demand for equitable labor practices, including reasonable work hours. Without the seismic shift brought about by the abolition of slavery and the ensuing societal changes, the impetus for the 8-hour workday might have lacked the momentum it gained.
+
+Although California received an 8-hour day in 1868, the [[Supreme Court of California]] rapidly undid many of the gains the American workers received. As a result, the 8-hour movement needed to expand its strength.
+
+The Eight-Hour League built off the strength of the [[House Carpenter’]]s Eight-Hour League, which had already achieved success in [[San Jose]]. The League pledged that its members would offer “eight hours of energetic and faithful labor” without loitering or dilly-dallying. They claimed that men who worked eight hours had time to “two more hours of rest, recreations, and mental culture.”
+
+The Eight-Hour Movement declared that its members would not be intimidated by threats to achieve their gains. They hoped that by July 1, [[1869]], the rest of San Jose would adopt this shorter work day. We do not know if this happened as we are still learning about our city’s past.
+
+Eventually, in 1872, the Eight-Hour Movement would open up to the rest of [[Santa Clara County]] as workers realized that their gains cannot happen at the city level, but rather at the county level. Eventually, the fight for a shorter working day would escalate to state wide and even national level.
+
+Today, workers spend a significant amount of our time commuting to work, spending eight hours on our shifts, and then commuting home. We do not have time to ourselves anymore. By demanding [[AB-2932]] become a reality and enacting a 32 hour work week, we can further reclaim the time we spend laboring.
