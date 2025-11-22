@@ -1,0 +1,11 @@
+June 4, [[1972]]. [[Angela Davis]] was acquitted of the following charges: conspiracy, kidnapping, and the death of [[Marin County]] Judge [[Harold Haley]].
+
+Angela Davis was a member of the [[Communist Party]] and had enormous influence during the 1960s and 1970s. She was put on trial for her involvement in the incident at [[San Rafael]], [[California]] on August 7, [[1970]], when a young [[Jonathan Jackson]] attempted to hold the San Marin County Courthouse hostage in exchange for the [[Soledad Brothers]], which consisted of his older brother [[George Jackson]] and two others, [[Fleeta Drumgo]] and [[John Clutchette]]. The action led to a shootout between Jackson and the local authorities, and it resulted in the deaths of Jackson, two accomplices, and Judge Harold Haley.
+
+Davis allegedly gave the younger Jackson the gun he would use to accomplish his deed. Her actions placed her on the [[FBI]]’s Most Wanted List, and they would arrest her in October 1970 in [[New York]], and her trial began in January [[1971]].
+
+Her case would receive international attention as over 200 organizations arrived at her defense throughout the country, even our city of [[San Jose]] mobilized people to defend her. The [[San Jose Peace and Justice Center]] on 7th Street served as a base of operations for local activity. Individuals from [[John Lennon]] to [[James Baldwin]] would use their talents and celebrity status to defend Davis.
+
+Her case has striking similarity to that of [[Anthony Burns]], who was an escaped slave who fled to Boston in [[1854]]. Due to the draconian [[Fugitive Slave Laws]], a slave patrol arrived in the North in an attempt to return the runaway. Yet, the city of [[Boston]] and other individuals from all over the North descended into the city to defend Burns. Over 50,000 individuals, black and white, came to Burns’s defense and fought off the slave patrol.
+
+Davis would be let off from all accounts. Her Communist Party membership did not dissuade the masses from coming to her defense. It is an example of the power of racial unity not only in our city but across the country. It also highlights the strength of militant mass movements.

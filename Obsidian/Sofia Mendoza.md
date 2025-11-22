@@ -1,0 +1,7 @@
+December 22, [[1934]]. A prominent Chicana activist in [[San Jose]], [[Sofia Mendoza]] helped organize a student walkout at [[Roosevelt Junior High School]]. Upon learning that their school received funding based on attendance, [[Chicano]] students took the opportunity to fight back and walked out of school to to protest racial oppression, wherein white teachers discriminated against Chicano students by forbidding them from speaking [[Spanish]], physically assaulted them, and more. The walkout resorted in the firing of multiple teachers and the principal.
+
+Mendoza is also known for helping create the [[Community Alert Patrol]], which monitored the actions of the [[San Jose Police Department]]. The CAP documented all instances of police harassment and brutality, culminating in a 2,000 person protest denouncing police treatment of the East Side. Her efforts helped lead to the creation of the [[Independent Police Auditor]], of which she was a member.
+
+Mendoza also co-founded the [[United People Arriba]] alongside her husband. The UPA demanded mass immunization for East San Jose. After a series of struggles, San Jose opened up a neighborhood clinic which would become [[East Valley Medical Center]].
+
+She worked closely with the famed organizer [[Fred Hirsch]], who was a member of the [[Communist Party]]. She and Hirsch worked tirelessly to serve the Chicano community so they could empower themselves to fight for change.
