@@ -1,6 +1,6 @@
 The [[California]] labor movement jolted with energy. 5% of the total unions in California came from [[San Jose]]. Our city was slowly becoming the union city it is today.
 
-As our city has solidarity with others across the Bay, on October 1, the [[San Francisco Building Trades Council]] issued a statement that its members were to work 8-hours a day for $3/day. 27 unions would be unaffected by this statement except for the millmen. The [[millmen]] in [[San Jose]], [[Santa Clara]], and other [[Bay Area]] cities joined the efforts, and they demanded an 8-hour day. From 19 mills from [[Oakland]], [[Berkeley]], [[Hayward]], San Jose, Santa Clara, and more, 8,000 men joined the cause.
+As our city has solidarity with others across the Bay, on October 1, the [[San Francisco Building Trades Council]] issued a statement that its members were to work 8-hours a day for $3/day. 27 unions would be unaffected by this statement except for the millmen. The [[millmen]] in [[San Jose]], [[Santa Clara County]], and other [[Bay Area]] cities joined the efforts, and they demanded an 8-hour day. From 19 mills from [[Oakland]], [[Berkeley]], [[Hayward]], San Jose, Santa Clara, and more, 8,000 men joined the cause.
 
 Around this time, [[Progressive Era]] reformers won seats in the government. They were part of many organizations like the [[Good Government League]], the [[New Charter Club]], and the [[Women’s Civic Study League]], which attacked the power of bosses, railroads, utilities, monopolies. They also misdirected their attacks on immigration.
 
