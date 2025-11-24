@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "c50965a4bcfabd85",
+    "id": "1df3431a77c77222",
     "type": "split",
     "children": [
       {
-        "id": "92f6d1a0d1fd4aa0",
+        "id": "155b350ffe394ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c201560f38f763",
+            "id": "d2820a748648c477",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Cities/Concord.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concord"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b4438f2d3c0da598",
+    "id": "af9578137323ee69",
     "type": "split",
     "children": [
       {
-        "id": "16d7604f68f1479b",
+        "id": "32db47a31cf8beee",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd87a7e8e82331d",
+            "id": "eb3a8e124c6ac34c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "b61570ed77ef632b",
+            "id": "b6625674cafb9625",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "f811383a51149918",
+            "id": "782e796c844db377",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "268a8a4aa2d9e860",
+    "id": "49aaf2df6ebea8ef",
     "type": "split",
     "children": [
       {
-        "id": "870a3be7b8f1cd6a",
+        "id": "046d4ebb1cbd5662",
         "type": "tabs",
         "children": [
           {
-            "id": "717d52af861f155b",
+            "id": "6c3794739f6aa4ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Cities/Concord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Concord"
             }
           },
           {
-            "id": "8136e3c097dc5eef",
+            "id": "ea2c9657648e3e4d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alfred Fuhrman.md",
+                "file": "Obsidian/Cities/Concord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Alfred Fuhrman"
+              "title": "Outgoing links from Concord"
             }
           },
           {
-            "id": "81f0c90efc875134",
+            "id": "c495b0bd8af3999f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +137,7 @@
             }
           },
           {
-            "id": "1d171521833bf745",
+            "id": "165789feab3dab94",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -146,18 +151,18 @@
             }
           },
           {
-            "id": "3c108b410fadf0f3",
+            "id": "e299f6ec456c3541",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alfred Fuhrman.md",
+                "file": "Obsidian/Cities/Concord.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alfred Fuhrman"
+              "title": "Outline of Concord"
             }
           }
         ]
@@ -178,44 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2c201560f38f763",
+  "active": "d2820a748648c477",
   "lastOpenFiles": [
-    "Cities/Antioch.md",
-    "Protests",
-    "Cities/Alameda (City).md",
-    "Support Network/Food Not Bombs/Vacaville FNB.md",
-    "Support Network/Food Not Bombs/Santa Rosa FNB.md",
-    "Support Network/Food Not Bombs/San Rafael FNB.md",
-    "Support Network/Food Not Bombs/San Jose FNB.md",
-    "Support Network/Food Not Bombs/San Francisco FNB.md",
-    "Support Network/Food Not Bombs/Petaluma FNB.md",
-    "Support Network/Food Not Bombs/Palo Alto FNB.md",
-    "Support Network/Food Not Bombs/Oakland FNB.md",
-    "Support Network/Food Not Bombs/Napa FNB.md",
-    "Support Network/Food Not Bombs/Hayward FNB.md",
-    "Support Network/Food Not Bombs/Concord FNB.md",
-    "Support Network/Food Not Bombs/Berkeley FNB.md",
-    "Support Network/Food Not Bombs/Antioch FNB.md",
-    "1. Start Here/Z. For Contributors/4 .Unformatted/3. Tasks/Food Not Bombs.md",
-    "Untitled.canvas",
-    "Support Network/Food Not Bombs",
-    "State Government/State Officials/Governor's Cabinet/Josh Fryday.md",
-    "State Government/State Agencies/California Volunteers.md",
-    "State Government/State Officials/Governor's Cabinet/Lindsey Sin.md",
-    "State Government/State Agencies/California Department of Veterans Affairs.md",
-    "State Government/State Officials/Governor's Cabinet/Toks Omishakin.md",
-    "State Government/State Agencies/California State Transportation Agency.md",
-    "State Government/State Officials/Governor's Cabinet/Wade Crowfoot.md",
-    "State Government/State Agencies/California Natural Resources Agency.md",
-    "State Government/State Officials/Governor's Cabinet/Matthew Beevers.md",
-    "State Government/State Agencies/California Military Department.md",
-    "State Government/State Agencies",
-    "State Government",
-    "State Government/State Officials/Governor's Cabinet",
-    "Democratic Party Infrastructure/Elected Officials",
-    "Democratic Party Infrastructure/Alameda County Chartered Clubs",
-    "2. Events",
-    "Politicians/City Officials",
-    "State Government/State Officials"
+    "Obsidian/Cities/Brentwood.md",
+    "Obsidian/Cities/Berkeley.md",
+    "Obsidian/Cities/Antioch.md"
   ]
 }
