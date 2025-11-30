@@ -1,3 +1,4 @@
+
 June 4, [[1972]]. [[Angela Davis]] was acquitted of the following charges: conspiracy, kidnapping, and the death of [[Marin County]] Judge [[Harold Haley]].
 
 Angela Davis was a member of the [[Communist Party]] and had enormous influence during the 1960s and 1970s. She was put on trial for her involvement in the incident at [[San Rafael]], [[California]] on August 7, [[1970]], when a young [[Jonathan Jackson]] attempted to hold the San Marin County Courthouse hostage in exchange for the [[Soledad Brothers]], which consisted of his older brother [[George Jackson]] and two others, [[Fleeta Drumgo]] and [[John Clutchette]]. The action led to a shootout between Jackson and the local authorities, and it resulted in the deaths of Jackson, two accomplices, and Judge Harold Haley.

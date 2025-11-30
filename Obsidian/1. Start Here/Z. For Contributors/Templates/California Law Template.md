@@ -1,0 +1,11 @@
+---
+type:
+subtype:
+date:
+updated:
+related_people:
+related_legislation:
+related_organizations:
+related_texts:
+related_events:
+---
